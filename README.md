@@ -1,3 +1,5 @@
+Основы тестирования ПО: задание 1
+
 [![CI/CD GitHub Actions](https://github.com/Cuudemi/task1/actions/workflows/test-action.yml/badge.svg)](https://github.com/Cuudemi/task1/actions/workflows/test-action.yml)
 [![Coverage Status](https://coveralls.io/repos/github/Cuudemi/task1/badge.svg)](https://coveralls.io/github/Cuudemi/task1)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Cuudemi_task1&metric=alert_status)](https://sonarcloud.io/dashboard?id=Cuudemi_task1)
