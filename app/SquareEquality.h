@@ -1,0 +1,4 @@
+#ifndef SQUAREEQUALITY_H
+#define SQUAREEQUALITY_H
+
+#endif // SQUAREEQUALITY_H
